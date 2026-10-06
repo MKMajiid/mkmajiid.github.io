@@ -7,45 +7,89 @@ redirect_from:
   - /resume
 ---
 
-## Academic profile
+## Research profile
 
-Theoretical and computational physicist working across quantum information, quantum walks, quantum metrology, quantum magnetism, and statistical physics.
+Theoretical physicist working primarily on **quantum magnetism, statistical mechanics, and magnetoelastic spin systems**, with a complementary background in **quantum information, quantum metrology, and quantum walks**. Current doctoral research focuses on localized magnetic systems with magnetoelastic coupling, including thermodynamic phase behavior, first- and second-order transitions, tricritical phenomena, and numerical treatment of coupled magnetic-lattice degrees of freedom.
 
-## Current position
+## Education
 
-**PhD Researcher, Theoretical Condensed-Matter Physics**  
-Pavol Jozef Šafárik University in Košice, Slovakia
+### Ph.D. in Physics — 2024–present
 
-Research focus: spin-1/2 Heisenberg/XXZ models, magnetoelasticity, coupled magnetic-lattice thermodynamics, phase diagrams, phase transitions, and tricritical behavior.
+**Pavol Jozef Šafárik University in Košice (UPJŠ), Košice, Slovakia**  
+Department of Theoretical Physics and Astrophysics
 
-## Education and research training
+**Dissertation:** *Theoretical investigation of localized magnetic systems with magnetoelastic coupling*  
+**Supervisor:** Prof. Michal Jaščur
 
-- Current doctoral research in theoretical condensed-matter and statistical physics, Pavol Jozef Šafárik University in Košice.
-- Previous doctoral-level research in quantum information and computation, focused on discrete-time quantum walks and quantum estimation.
+### M.Sc. in Quantum Information and Computation — 2012–2014
+
+**Shahrood University of Technology, Shahroud, Iran**  
+**Thesis:** *Quantum Walk on Cycles*
 
 ## Research interests
 
-- Quantum walks and quantum information
-- Quantum metrology and quantum Fisher information
-- Quantum many-body and statistical physics
-- Heisenberg, XXZ, Kitaev, J-K-Γ, and related spin models
-- Magnetoelastic and spin-lattice interactions
-- Phase transitions and tricritical phenomena
-- Analytical quantum-walk methods and scientific computing
+- Quantum magnetism and localized spin systems
+- Magnetoelastic coupling and spin-lattice interactions
+- Spin-1/2 Heisenberg and XXZ models
+- Statistical mechanics, thermodynamics, and phase transitions
+- Quantum information and quantum metrology
+- Quantum Fisher information and multiparameter estimation
+- Discrete- and continuous-time quantum walks
+- Computational and theoretical condensed-matter physics
 
-## Methods and technical skills
+## Research experience
 
-- **Programming:** Python
-- **Scientific Python:** NumPy, SciPy, SymPy, Matplotlib, mpmath
-- **Numerical methods:** nonlinear root finding, continuation, optimization, high-precision computation
-- **Many-body/statistical methods:** cluster/Oguchi and mean-field methods, transfer-matrix methods, quantum Monte Carlo benchmarking
-- **Research workflow:** Jupyter, LaTeX, Git/GitHub, Quarto
+**Magnetoelastic spin-1/2 Heisenberg/XXZ systems** — current Ph.D. research  
+Oguchi/dimer mean-field treatment of spin-1/2 anisotropic Heisenberg models with magnetoelastic coupling; Helmholtz free-energy modelling with static-lattice, vibrational, and magnetic contributions; numerical analysis of strain, magnetization, phase boundaries, response functions, first- and second-order transitions, and tricriticality.
+
+**Kitaev and hyperhoneycomb extension** — current research direction  
+Extension toward bond-dependent Kitaev-type interactions on the hyperhoneycomb lattice, magnetoelastic effects in Kitaev and J-K-Γ models, and possible connection to β-Li₂IrO₃.
+
+**Quantum information, metrology, and quantum walks**  
+Research background in quantum information and computation, discrete-time quantum walks, quantum Fisher information, parameter estimation, and multiparameter estimation.
+
+## Teaching experience
+
+- Fundamental Physics / Classical Mechanics, Shahrood University of Technology, 2020–2022
+- Fundamental Physics / Classical Electromagnetism, Shahrood University of Technology, 2020–2022
+
+## Theoretical and computational methods
+
+- Statistical mechanics and thermodynamic modelling
+- Quantum spin Hamiltonians and lattice models
+- Mean-field and Oguchi approximations
+- Phase-transition and tricritical-point analysis
+- Numerical root finding and nonlinear equation solving
+- Continuation and branch-tracking methods
+- High-precision numerical calculations
+- Quantum Fisher information and quantum estimation theory
+- Quantum-walk modelling
+
+## Computational skills
+
+**Programming:** Python  
+**Scientific computing:** Qiskit, Cirq, NumPy, SciPy, SymPy, mpmath, Matplotlib  
+**Research workflow:** Jupyter  
+**Scientific writing:** LaTeX  
+**Numerical methods:** root finding, nonlinear systems, continuation, optimization, high-precision computation  
+**Other:** Maple, MATLAB, C, C++, COMSOL, SolidWorks
 
 ## Publications
 
 <ul>{% for post in site.publications reversed %}
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
+
+## Conference presentations
+
+- **Automata2026**, Cergy, France, 2026 — *Critical Behavior of Spin 1/2 Anisotropic Heisenberg Model with Magnetoelastic Interaction* (poster)
+- **QuantumMatter2026**, Barcelona, Spain, 2026 — *Critical Behavior of Spin 1/2 Anisotropic Heisenberg Model with Magnetoelastic Interaction* (poster)
+- **CSMAG2025**, High Tatras, Slovakia, 2025 — *Quantum Heisenberg Isotropic Ferromagnet with a Magnetoelastic Interaction* (poster)
+- **AQUMICS2025**, Cergy, France, 2025 — *Quantum Heisenberg XXZ S=1/2 Model with Magnetoelastic Interaction* (poster)
+
+## Academic service
+
+Peer-review activity for *Journal of Physics Communications*, *Journal of Physics A: Mathematical and Theoretical*, *New Journal of Physics*, and *Physica Scripta*.
 
 ## Professional links
 
