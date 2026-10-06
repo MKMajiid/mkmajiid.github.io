@@ -12,8 +12,7 @@ Košice, Slovakia
 
 ## Email
 
-- Academic: [majid.moradi@student.upjs.sk](mailto:majid.moradi@student.upjs.sk)
-- General: [majidofficial@gmail.com](mailto:majidofficial@gmail.com)
+- [majidofficial@gmail.com](mailto:majidofficial@gmail.com)
 
 ## Research profiles
 
