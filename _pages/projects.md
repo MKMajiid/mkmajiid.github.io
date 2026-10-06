@@ -31,9 +31,11 @@ Related publication:
 
 **Status:** ongoing methodological research
 
+<!--
 I am developing quantum-walk-based analytical constructions for lattice statistical mechanics and interacting spin systems. The goal is to use the geometry and spectral structure of higher-dimensional quantum walks to organize propagation, operator ordering, graph embeddings, and asymptotic information in thermodynamic calculations.
 
 Current targets include Heisenberg/XXZ systems and extensions toward Kitaev, J-K-Γ, XYZ, higher-spin models, information-geometric observables, and material-oriented case studies.
+-->
 
 ## Quantum walks on nontrivial geometries
 
