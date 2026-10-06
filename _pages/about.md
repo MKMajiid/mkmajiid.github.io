@@ -7,31 +7,33 @@ redirect_from:
   - /about.html
 ---
 
-I am a **theoretical and computational physicist** working at the interface of **quantum information**, **quantum walks**, **quantum many-body physics**, and **statistical physics**. I am currently a PhD researcher in theoretical condensed-matter physics at the **Department of Theoretical Physics and Astrophysics, Pavol Jozef Šafárik University in Košice**, where my research focuses on quantum spin systems, magnetoelastic interactions, thermodynamics, and phase transitions.
+I am a **Ph.D. Candidate in theoretical condensed-matter physics** at the **Department of Theoretical Physics and Astrophysics, Pavol Jozef Šafárik University in Košice (UPJŠ), Slovakia**.
 
-My earlier work is rooted in **quantum information and discrete-time quantum walks**, including quantum-walk topology, asymptotic dynamics, entanglement, and quantum parameter estimation. My current research connects these ideas with interacting spin systems and finite-temperature many-body physics.
+My research focuses primarily on **quantum magnetism, statistical mechanics, and magnetoelastic spin systems**, with a complementary background in **quantum information, quantum metrology, and quantum walks**. My current doctoral work studies localized magnetic systems with magnetoelastic coupling, including thermodynamic phase behavior, first- and second-order transitions, tricritical phenomena, and the numerical treatment of coupled magnetic-lattice degrees of freedom.
 
 ## Research interests
 
-- Quantum walks and quantum information
-- Quantum metrology, quantum Fisher information, and multiparameter estimation
-- Quantum magnetism and Heisenberg/XXZ spin models
-- Magnetoelastic and spin-lattice interactions
-- Phase transitions, tricriticality, and statistical mechanics
-- Analytical and computational methods for quantum many-body systems
+- Quantum magnetism and localized spin systems
+- Magnetoelastic coupling and spin-lattice interactions
+- Spin-1/2 Heisenberg and XXZ models
+- Statistical mechanics, thermodynamics, and phase transitions
+- Quantum information and quantum metrology
+- Quantum Fisher information and multiparameter estimation
+- Discrete- and continuous-time quantum walks
+- Computational and theoretical condensed-matter physics
 
 [Explore my research →](/research/)
 
 ## Current research directions
 
-**Quantum spin thermodynamics and magnetoelasticity.**  
-I study coupled magnetic, elastic, and vibrational degrees of freedom in quantum spin models, with particular emphasis on phase diagrams, first- and second-order transitions, tricritical behavior, and strain-dependent exchange interactions.
+**Magnetoelastic spin-1/2 Heisenberg/XXZ systems.**  
+I study anisotropic Heisenberg models with magnetoelastic coupling using an Oguchi/dimer mean-field framework, including static-lattice, vibrational, and magnetic contributions to the free energy. Current calculations address equilibrium strain, magnetization, phase boundaries, response functions, first- and second-order transitions, and tricritical behavior.
 
-**Quantum-walk methods for physics.**  
-I am developing analytical quantum-walk-based frameworks aimed at problems in statistical mechanics, interacting spin systems, spectral analysis, and quantum algorithms.
+**Kitaev and hyperhoneycomb extensions.**  
+A current research direction is the extension from simple-cubic XXZ magnetoelastic models toward bond-dependent Kitaev-type interactions on the hyperhoneycomb lattice, including possible J-K-Γ generalizations and connections to β-Li₂IrO₃.
 
-**Quantum estimation and information geometry.**  
-I work on quantum-walk-based metrology and on information-theoretic probes of quantum systems, including quantum Fisher information, entanglement, and related geometric quantities.
+**Quantum information, metrology, and quantum walks.**  
+My earlier research includes discrete-time quantum walks, quantum parameter estimation, quantum Fisher information, and multiparameter estimation. I am interested in connecting quantum-information diagnostics with correlated quantum-matter systems.
 
 ## Selected publications
 

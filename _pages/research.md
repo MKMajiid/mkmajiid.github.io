@@ -4,46 +4,35 @@ permalink: /research/
 author_profile: true
 ---
 
-My research spans quantum information and condensed-matter/statistical physics, with a recurring emphasis on **analytical structure**, **quantum walks**, **spin systems**, and **parameter estimation**.
+My research combines theoretical condensed-matter physics with methods and concepts from quantum information. The main themes are quantum magnetism, magnetoelastic coupling, statistical mechanics, quantum metrology, and quantum walks.
 
-## Quantum walks, quantum information, and metrology
+## Quantum magnetism and magnetoelastic spin systems
 
-I study discrete-time quantum walks as both physical dynamical systems and analytical tools. My work includes topology-modified walks, long-time and limiting distributions, entanglement, and quantum parameter estimation. A current direction is the use of split-step and higher-dimensional quantum walks for quantum metrology and for spectral encodings of physics and nonlinear problems.
+My current Ph.D. research studies spin-1/2 anisotropic Heisenberg (XXZ) systems with magnetoelastic coupling. Magnetic interactions are treated using the Oguchi approximation / dimer mean-field framework, while the thermodynamics includes static-lattice, vibrational, and magnetic contributions.
 
-Relevant topics include:
+The main observables and problems include equilibrium strain, magnetization, phase boundaries, thermodynamic response functions, first- and second-order phase transitions, and tricritical behavior as functions of anisotropy, exchange strength, temperature, and strain.
 
-- discrete-time and split-step quantum walks;
-- quantum Fisher information and multiparameter estimation;
-- quantum Cramér-Rao bounds and probe optimization;
-- entanglement and asymptotic quantum-walk dynamics;
-- circuit-oriented formulations of quantum-walk algorithms.
+## Kitaev and hyperhoneycomb extension
 
-## Quantum many-body and statistical physics
+A current research direction is the development of a route from simple-cubic XXZ magnetoelastic models toward bond-dependent Kitaev-type interactions on the hyperhoneycomb lattice.
 
-My present condensed-matter work focuses on finite-temperature quantum spin systems and phase transitions. The central model class is the spin-1/2 Heisenberg/XXZ family, with extensions toward more general anisotropic and frustrated interactions.
+I am particularly interested in magnetoelastic effects in Kitaev and extended J-K-Γ models, possible connections to β-Li₂IrO₃, and the resulting thermodynamic, lattice, and magnetic signatures.
 
-Current interests include:
+## Quantum information, metrology, and quantum walks
 
-- Heisenberg and XXZ quantum magnets;
-- first- and second-order phase transitions;
-- tricritical points and phase-diagram topology;
-- exact, mean-field, cluster, and quantum Monte Carlo benchmarks;
-- extensions toward Kitaev, J-K-Γ, and XYZ-type interactions.
+My earlier research background is in quantum information and quantum computation, with particular emphasis on discrete-time quantum walks and quantum-walk-based models.
 
-## Magnetoelastic and spin-lattice physics
+This work includes:
 
-A major part of my current research concerns the feedback between lattice deformation and magnetic ordering. I model strain-dependent exchange interactions together with static lattice and vibrational contributions, and study how this coupling reshapes thermodynamic stability and critical behavior.
+- quantum parameter estimation;
+- quantum Fisher information;
+- multiparameter estimation;
+- quantum-walk asymptotics and limiting distributions;
+- entanglement and decoherence;
+- connections between quantum-information diagnostics and correlated quantum systems.
 
-Topics include:
+## Theoretical and computational methods
 
-- magnetoelastic coupling and strain-dependent exchange;
-- Morse lattice potentials;
-- Einstein and generalized phonon descriptions;
-- coupled magnetic-elastic-vibrational free energies;
-- pressure, deformation, and phase-boundary control.
+My work uses statistical-mechanical modelling, quantum spin Hamiltonians and lattice models, mean-field and Oguchi approximations, phase-transition and tricritical-point analysis, nonlinear root finding, continuation and branch tracking, optimization, high-precision computation, quantum Fisher information, and quantum-walk modelling.
 
-## Analytical and computational methods
-
-I combine analytical derivations with reproducible scientific computing. My work uses Python-based numerical analysis, symbolic algebra, nonlinear equation solving, continuation methods, phase-diagram construction, and quantum Monte Carlo for independent benchmarking.
-
-I am particularly interested in methods that preserve transparent physical interpretation while extending the reach of analytical calculations.
+The main computational environment is Python with Qiskit, Cirq, NumPy, SciPy, SymPy, mpmath, Matplotlib, and Jupyter. I also have experience with Maple, MATLAB, C, C++, COMSOL, and SolidWorks.

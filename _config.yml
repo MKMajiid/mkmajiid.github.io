@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Majid Moradi Kelardeh / MKMajid"
+title                    : "Majid Moradi Kelardeh"
 title_separator          : "-"
 name                     : &name "Majid Moradi Kelardeh"
 description              : &description "Academic website of Majid Moradi Kelardeh, a theoretical and computational physicist working on quantum information, quantum walks, quantum magnetism, and statistical physics."   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Majid Moradi Kelardeh"
   pronouns         : # example: "she/her"  
-  bio              : "Theoretical & computational physicist working across quantum information, quantum walks, quantum many-body physics, and statistical physics."
+  bio              : "Ph.D. Candidate in theoretical condensed-matter physics working on quantum magnetism, statistical mechanics, magnetoelastic spin systems, quantum information, metrology, and quantum walks."
   location         : "Košice, Slovakia"
   employer         : "Pavol Jozef Šafárik University in Košice"
   uri              : # URL
