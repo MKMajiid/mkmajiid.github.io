@@ -1,64 +1,54 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+## Academic profile
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+Theoretical and computational physicist working across quantum information, quantum walks, quantum metrology, quantum magnetism, and statistical physics.
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Current position
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**PhD Researcher, Theoretical Condensed-Matter Physics**  
+Pavol Jozef Šafárik University in Košice, Slovakia
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Research focus: spin-1/2 Heisenberg/XXZ models, magnetoelasticity, coupled magnetic-lattice thermodynamics, phase diagrams, phase transitions, and tricritical behavior.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Education and research training
+
+- Current doctoral research in theoretical condensed-matter and statistical physics, Pavol Jozef Šafárik University in Košice.
+- Previous doctoral-level research in quantum information and computation, focused on discrete-time quantum walks and quantum estimation.
+
+## Research interests
+
+- Quantum walks and quantum information
+- Quantum metrology and quantum Fisher information
+- Quantum many-body and statistical physics
+- Heisenberg, XXZ, Kitaev, J-K-Γ, and related spin models
+- Magnetoelastic and spin-lattice interactions
+- Phase transitions and tricritical phenomena
+- Analytical quantum-walk methods and scientific computing
+
+## Methods and technical skills
+
+- **Programming:** Python
+- **Scientific Python:** NumPy, SciPy, SymPy, Matplotlib, mpmath
+- **Numerical methods:** nonlinear root finding, continuation, optimization, high-precision computation
+- **Many-body/statistical methods:** cluster/Oguchi and mean-field methods, transfer-matrix methods, quantum Monte Carlo benchmarking
+- **Research workflow:** Jupyter, LaTeX, Git/GitHub, Quarto
+
+## Publications
+
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
+## Professional links
+
+- [Google Scholar](https://scholar.google.com/citations?user=EKnyXAcAAAAJ&hl=en)
+- [ORCID](https://orcid.org/0000-0001-9479-2042)
+- [GitHub](https://github.com/MKMajiid)

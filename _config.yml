@@ -12,7 +12,7 @@ site_theme               : "mint" # The available themes options are "default", 
 title                    : "Majid Moradi Kelardeh / MKMajid"
 title_separator          : "-"
 name                     : &name "Majid Moradi Kelardeh"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Academic website of Majid Moradi Kelardeh, a theoretical and computational physicist working on quantum information, quantum walks, quantum magnetism, and statistical physics."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://mkmajiid.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,11 +24,11 @@ repository               : "mkmajiid/mkmajiid.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Majid Moradi Kelardeh"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Theoretical & computational physicist working across quantum information, quantum walks, quantum many-body physics, and statistical physics."
+  location         : "Košice, Slovakia"
+  employer         : "Pavol Jozef Šafárik University in Košice"
   uri              : # URL
   email            : "majidofficial@gmail.com" 
 
@@ -38,7 +38,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=EKnyXAcAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "hhttps://orcid.org/0000-0001-9479-2042"
+  orcid            : "https://orcid.org/0000-0001-9479-2042"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
@@ -51,13 +51,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "MKMajiid"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -84,12 +84,10 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+    title: 'Peer-Reviewed Articles'
+  preprints:
+    title: 'Preprints and Working Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
@@ -302,7 +300,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Etc/UTC # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Bratislava # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
