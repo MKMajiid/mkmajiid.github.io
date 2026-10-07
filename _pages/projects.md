@@ -39,7 +39,7 @@ Current targets include Heisenberg/XXZ systems and extensions toward Kitaev, J-K
 
 ## MajiQwalK — modular discrete-time quantum-walk software
 
-<p align="center"><img src="https://raw.githubusercontent.com/MKMajiid/MajiQwalK/main/docs/assets/majiqwalk-logo.png" alt="MajiQwalK logo" width="480"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/MKMajiid/MajiQwalK/main/docs/assets/majiqwalk-logo.svg" alt="MajiQwalK logo" width="540"></p>
 
 **Status:** active software development
 
