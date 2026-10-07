@@ -37,6 +37,16 @@ I am developing quantum-walk-based analytical constructions for lattice statisti
 Current targets include Heisenberg/XXZ systems and extensions toward Kitaev, J-K-Γ, XYZ, higher-spin models, information-geometric observables, and material-oriented case studies.
 -->
 
+## MajiQwalK — modular discrete-time quantum-walk software
+
+**Status:** active software development
+
+I am developing **MajiQwalK**, a modular research package for discrete-time quantum walks with a C++20 numerical core and Python API/CLI. The current development version supports state-vector evolution on line, square, and simple-cubic lattices, multiple built-in and custom unitary coins, YAML configuration, HDF5 scientific output, and publication-oriented plotting.
+
+The package is designed for later extension to density-matrix dynamics, additional geometries and walk families, GPU acceleration, and quantum-metrology quantities including FI, QFI/QFIM, and Uhlmann-type curvature.
+
+- [MajiQwalK source repository](https://github.com/MKMajiid/MajiQwalK)
+
 ## Quantum walks on nontrivial geometries
 
 My earlier work introduced and analyzed the **Möbius quantum walk**, in which an additional internal degree of freedom changes the topology and long-time distribution of a walk on a cycle. I have also studied asymptotic and limiting distributions for quantum walks with general U(2) coin operators.
