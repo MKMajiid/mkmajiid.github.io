@@ -39,11 +39,13 @@ Current targets include Heisenberg/XXZ systems and extensions toward Kitaev, J-K
 
 ## MajiQwalK — modular discrete-time quantum-walk software
 
+<p align="center"><img src="https://raw.githubusercontent.com/MKMajiid/MajiQwalK/main/docs/assets/majiqwalk-logo.png" alt="MajiQwalK logo" width="480"></p>
+
 **Status:** active software development
 
-I am developing **MajiQwalK**, a modular research package for discrete-time quantum walks with a C++20 numerical core and Python API/CLI. The current development version supports state-vector evolution on line, square, and simple-cubic lattices, multiple built-in and custom unitary coins, YAML configuration, HDF5 scientific output, and publication-oriented plotting.
+I am developing **MajiQwalK**, a modular research package for discrete-time quantum walks with a C++20 numerical core and Python API/CLI. The current development version supports state-vector quantum walks and classical random-walk counterparts on line, square, and simple-cubic lattices, multiple built-in and custom unitary coins, persistent classical directional memory, YAML configuration, HDF5 scientific output, and publication-oriented plotting.
 
-The package is designed for later extension to density-matrix dynamics, additional geometries and walk families, GPU acceleration, and quantum-metrology quantities including FI, QFI/QFIM, and Uhlmann-type curvature.
+It also provides direct quantum/classical transport comparison through probability distributions, variance, RMS displacement, and finite-time spreading diagnostics. The package is designed for later extension to density-matrix dynamics, quantum channels, additional geometries and walk families, GPU acceleration, and quantum-metrology quantities including FI, QFI/QFIM, and Uhlmann-type curvature.
 
 - [MajiQwalK source repository](https://github.com/MKMajiid/MajiQwalK)
 
